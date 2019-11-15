@@ -1,4 +1,4 @@
-# An simple GraphQL example 
+# A simple GraphQL example 
 ### Integrating with json-server and express-graphql.
 
 ## Requirements
